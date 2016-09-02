@@ -1,7 +1,7 @@
 #Intro to IIFE's
 
 ## Description
-
+Displays "sedan" object's properties in the console.  Demonstrates how IIFEs are used to keep private variables private and free from public manipulation by instantly invoking the function on page load.
 
 ## How to run
 In your terminal run:
